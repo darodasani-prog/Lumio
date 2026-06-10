@@ -1,0 +1,6 @@
+{
+  "name": "lomio",
+  "description": "Prismatic ambient audio companion and minimalist focus studio combining synthesized environmental soundboards, interactive Pomodoro trackers, and a micro mindfulness journal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
